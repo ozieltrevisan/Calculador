@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/oziel/AndroidStudioProjects/Calculador/app/src/main/res/drawable/botao_clicado.xml" value="0.1525" />
+        <entry key="..\:/Users/oziel/AndroidStudioProjects/Calculador/app/src/main/res/drawable/shape_n_normal.xml" value="0.1525" />
+        <entry key="..\:/Users/oziel/AndroidStudioProjects/Calculador/app/src/main/res/drawable/shape_n_selecionar.xml" value="0.1525" />
         <entry key="..\:/Users/oziel/AndroidStudioProjects/Calculador/app/src/main/res/layout/activity_main.xml" value="0.15806159420289856" />
       </map>
     </option>
